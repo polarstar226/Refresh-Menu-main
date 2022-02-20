@@ -63,9 +63,7 @@
 
 Thanks for taking the time to contribute!
 
-1. Kritika Tripathi
-2. Omkarnath Parida
-3. DhanaSekhar
+  Woody
 
 ## Credits
 
