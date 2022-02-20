@@ -68,4 +68,3 @@ Thanks for taking the time to contribute!
 ## Credits
 
 `https://www.freshmenu.com/`
-`https://masaischool.com/`
